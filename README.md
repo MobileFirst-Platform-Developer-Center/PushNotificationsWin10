@@ -12,7 +12,7 @@ https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/notificatio
 2. From a **Command-line** window, navigate to the project's root folder and run the command: `mfpdev app register`.
 3. In the MobileFirst console:
 	* Under **Applications** → **PushNotificationsWin10** → **Security** → **Map scope elements to security checks**, add a mapping for `push.mobileclient`.
-	* Under **Applications** → **PushNotificationsAndroid** → **Push** → **Push Settings**, add Windows Push Notifications Service (WNS) Package Security Identifier (SID) and Client secret values.
+	* Under **Applications** → **PushNotificationsWin10** → **Push** → **Push Settings**, add Windows Push Notifications Service (WNS) Package Security Identifier (SID) and Client secret values.
 5. Run the app by clicking the **Run** button.
 
 **[Sending a notification](https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/notifications/sending-push-notifications):**
