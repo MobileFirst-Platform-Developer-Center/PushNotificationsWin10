@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="Name of the test"
-    Publisher="Publisher Id"
+    Name=<"Identity_Name>"
+    Publisher="<Publisher_Name>"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="df6dbe00-5b39-45eb-b014-2c5bac55c102" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>PushNotificationsWin10</DisplayName>
-    <PublisherDisplayName>Publisher Name</PublisherDisplayName>
+    <PublisherDisplayName>Publisher_Name</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
