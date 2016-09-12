@@ -8,7 +8,7 @@
 
   <Identity
     Name="b38f4de5-08c0-400a-9ce8-c2d7f3b8e6d6"
-    Publisher="CN=Bharat Devdas"
+    Publisher="CN=mobilefirst"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="df6dbe00-5b39-45eb-b014-2c5bac55c102" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
